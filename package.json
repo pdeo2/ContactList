@@ -1,0 +1,17 @@
+{
+  "name": "contactlist",
+  "version": "1.0.0",
+  "description": "This is my Contact list using Express Js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prabhat Deo",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "hooks": "^0.3.2",
+    "mongoose": "^5.4.0"
+  }
+}
